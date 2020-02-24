@@ -16,6 +16,12 @@
     position: center;
 }
 
+.buy-now-button:hovor{
+    background-color:blue;
+    transform: scale(1.1);
+    font-weight: 700;
+}
+
 .carousel-indicators li{
     background-color: tomato;
     color: yellow;
@@ -47,6 +53,11 @@ h5{
     box-shadow: 3px 3px 10px gray;
     text-align: center;
 }
+.card1{
+    margin: 5px;
+    border: none; 
+    text-align: center;
+}
 #catagories-bg {
     position: relative;
     margin: 0 auto;
@@ -72,6 +83,7 @@ h5{
 .bag, .perfume, .shoe{
     text-align: center;
 }
+
 h5{
     text-align: center;
 }
